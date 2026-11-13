@@ -227,21 +227,8 @@ Through these practical exercises, I gained experience in:
 - Network topology visualization.
 - Technical documentation and evidence collection.
 
-## 🔒 Disclaimer
-
-This repository is intended for educational purposes and documents practical cybersecurity exercises.
-
-All scanning and information-gathering activities should be conducted only against systems and networks for which appropriate authorization has been obtained.
-
-The network scanning exercise documented here was performed on my personal mobile hotspot network.
-
-The results represent observations from the practical exercises and should not be interpreted as confirmed security vulnerabilities.
-
-## 🙏 Acknowledgement
-
-I sincerely thank **Waqas Karim (CCIE)** and the **NETWORKWALKS** team for their guidance, training and support throughout this cybersecurity learning journey.
-
----
+##WK2-PM-Final -
+[!Report](Mohammed_Riyaan_Week2_Final_Report.pdf)
 
 **Author:** Mohammed Riyaan  
 **Program:** Cybersecurity & Ethical Hacking  
