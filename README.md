@@ -192,33 +192,20 @@ The Zenmap Topology feature was used to visualize the discovered hosts. The gene
 
 The repository contains screenshots documenting the practical implementation and results.
 
-Suggested evidence structure:
+#WK2-PM1 - Multiple kali linux tools
+(whois_screen.png)
+(whatweb_screen.png)
+(nslookup_screen.png)
+(curl_cmd_screen.png)
+(waafw00f_screen.png)
+(dnsrecon_screen.png)
 
-```text
-Week-2-Cybersecurity/
-│
-├── README.md
-│
-├── Module-1-Footprinting/
-│   ├── WHOIS/
-│   ├── WhatWeb/
-│   ├── Nslookup/
-│   ├── Curl/
-│   ├── Wafw00f/
-│   ├── DNSRecon/
-│   └── Screenshots/
-│
-├── Module-4-theHarvester/
-│   ├── Screenshots/
-│   └── Results/
-│
-├── Module-5-Zenmap/
-│   ├── Screenshots/
-│   └── Nmap-Topology.pdf
-│
-└── Report/
-    └── Week-2-Report.pdf
-```
+#WK2-PM4 - theHarvester
+(theHarvester_screen.png)
+
+#WK2-PM5 - Zenmap
+(zenmap.png)
+
 
 *Folder structure is a suggested organization for uploading your evidence.*
 
